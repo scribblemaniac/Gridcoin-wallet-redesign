@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="192px" viewBox="0 0 720 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M204,30 L686,30 C688.209139,30 690,31.790861 690,34 L690,158 C690,160.209139 688.209139,162 686,162 L204,162 C201.790861,162 200,160.209139 200,158 L200,34 C200,31.790861 201.790861,30 204,30 Z" id="path-1"></path>
+        <filter x="-0.1%" y="-0.4%" width="100.2%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="97.783801%" x2="50%" y2="2.62115777%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F2F4F7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="6 4 3 7 3.705 7.705 6 5.415 8.295 7.705 9 7"></polygon>
+        <polygon id="path-6" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+        <linearGradient x1="50%" y1="2.62115777%" x2="50%" y2="97.783801%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F2F4F7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-9" points="6 4 3 7 3.705 7.705 6 5.415 8.295 7.705 9 7"></polygon>
+        <polygon id="path-11" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+        <polygon id="path-13" points="6 4 3 7 3.705 7.705 6 5.415 8.295 7.705 9 7"></polygon>
+        <polygon id="path-15" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+    </defs>
+    <g id="Style-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1706.000000)" id="Light">
+            <g transform="translate(0.000000, 1706.000000)">
+                <polygon id="bg" fill="#EAEDED" points="0 0 720 0 720 192 0 192"></polygon>
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Number-Inputs/Light/Active/Text" transform="translate(210.000000, 40.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.7" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Number" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">Focused</tspan>
+                        </text>
+                        <g id="arrows" transform="translate(178.000000, 1.000000)">
+                            <path d="M1,0 L18,0 C19.6568542,-3.04359188e-16 21,1.34314575 21,3 L21,19 C21,20.6568542 19.6568542,22 18,22 L1,22 L1,22 L1,0 Z" id="bg" fill="url(#linearGradient-3)"></path>
+                            <rect id="divider" fill-opacity="0.7" fill="#3A465D" x="0" y="0" width="1" height="22"></rect>
+                            <g id="ic_expand_less" transform="translate(5.000000, 0.000000)">
+                                <mask id="mask-5" fill="white">
+                                    <use xlink:href="#path-4"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-5)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="ic_expand_more" transform="translate(5.000000, 10.000000)">
+                                <mask id="mask-7" fill="white">
+                                    <use xlink:href="#path-6"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-7)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Number-Inputs/Light/Disabled/Text" transform="translate(210.000000, 128.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.2" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Number" opacity="0.3" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">Disabled</tspan>
+                        </text>
+                        <g id="arrows" transform="translate(178.000000, 1.000000)">
+                            <path d="M1,0 L18,0 C19.6568542,-3.04359188e-16 21,1.34314575 21,3 L21,19 C21,20.6568542 19.6568542,22 18,22 L1,22 L1,22 L1,0 Z" id="bg" fill="url(#linearGradient-8)"></path>
+                            <rect id="divider" fill-opacity="0.2" fill="#3A465D" x="0" y="0" width="1" height="22"></rect>
+                            <g id="ic_expand_less" opacity="0.3" transform="translate(5.000000, 0.000000)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-10)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="ic_expand_more" opacity="0.3" transform="translate(5.000000, 10.000000)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-12)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Number-Inputs/Light/Default/Text" transform="translate(210.000000, 84.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.3" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Number" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">Default</tspan>
+                        </text>
+                        <g id="arrows" transform="translate(178.000000, 1.000000)">
+                            <path d="M1,0 L18,0 C19.6568542,-3.04359188e-16 21,1.34314575 21,3 L21,19 C21,20.6568542 19.6568542,22 18,22 L1,22 L1,22 L1,0 Z" id="bg" fill="url(#linearGradient-8)"></path>
+                            <rect id="divider" fill-opacity="0.3" fill="#3A465D" x="0" y="0" width="1" height="22"></rect>
+                            <g id="ic_expand_less" opacity="0.7" transform="translate(5.000000, 0.000000)">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-14)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="ic_expand_more" opacity="0.7" transform="translate(5.000000, 10.000000)">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/#3A465D" mask="url(#mask-16)" fill="#3A465D" fill-rule="evenodd">
+                                    <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                        <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

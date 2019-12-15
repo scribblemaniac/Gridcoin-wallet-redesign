@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="256px" viewBox="0 0 720 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34,30 L516,30 C518.209139,30 520,31.790861 520,34 L520,222 C520,224.209139 518.209139,226 516,226 L34,226 C31.790861,226 30,224.209139 30,222 L30,34 C30,31.790861 31.790861,30 34,30 Z" id="path-1"></path>
+        <filter x="-0.1%" y="-0.3%" width="100.2%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="97.783801%" x2="50%" y2="1.55905295%" id="linearGradient-3">
+            <stop stop-color="#1991EB" offset="0%"></stop>
+            <stop stop-color="#2DA1F8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="24" height="24" rx="4"></rect>
+        <circle id="path-5" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-7" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <linearGradient x1="50%" y1="97.783801%" x2="50%" y2="1.55905295%" id="linearGradient-9">
+            <stop stop-color="#1991EB" offset="0%"></stop>
+            <stop stop-color="#2DA1F8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="0" width="100" height="24" rx="4"></rect>
+        <circle id="path-11" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-13" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <rect id="path-15" x="0" y="0" width="100" height="24" rx="4"></rect>
+        <circle id="path-16" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-18" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <circle id="path-20" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-22" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <linearGradient x1="50%" y1="1.55905295%" x2="50%" y2="97.783801%" id="linearGradient-24">
+            <stop stop-color="#1991EB" offset="0%"></stop>
+            <stop stop-color="#2DA1F8" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-25" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-27" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <linearGradient x1="50%" y1="1.55905295%" x2="50%" y2="97.783801%" id="linearGradient-29">
+            <stop stop-color="#1991EB" offset="0%"></stop>
+            <stop stop-color="#2DA1F8" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-30" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-32" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <circle id="path-34" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-36" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+        <circle id="path-38" cx="8" cy="8" r="5.33333333"></circle>
+        <rect id="path-40" x="0" y="0" width="33.3333333" height="33.3333333"></rect>
+    </defs>
+    <g id="Style-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-720.000000, -3709.000000)" id="Dark">
+            <g transform="translate(720.000000, 3709.000000)">
+                <polygon id="bg" fill="#1A2632" points="0 0 720 0 720 256 0 256"></polygon>
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.7" fill="#171B24" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Disabled" transform="translate(50.000000, 182.000000)">
+                    <g id="Buttons/Disabled/Dark/Icon" transform="translate(220.000000, 0.000000)">
+                        <g id="Base" fill-rule="evenodd">
+                            <use fill="#1A2632" xlink:href="#path-4"></use>
+                            <rect stroke-opacity="0.05" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill-opacity="0.1" fill="url(#linearGradient-3)" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        </g>
+                        <g id="ic_fiber_manual_record" opacity="0.3" transform="translate(4.000000, 4.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-6)">
+                                <g transform="translate(-8.666667, -8.666667)">
+                                    <mask id="mask-8" fill="white">
+                                        <use xlink:href="#path-7"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Disabled/Dark/Icon-+-Text" transform="translate(110.000000, 0.000000)">
+                        <g id="Base">
+                            <use fill="#1A2632" xlink:href="#path-10"></use>
+                            <rect stroke-opacity="0.05" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill-opacity="0.1" fill="url(#linearGradient-9)" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        </g>
+                        <g id="Label" stroke-width="1" transform="translate(56.000000, 12.000000) rotate(-180.000000) translate(-56.000000, -12.000000) translate(28.000000, 4.000000)" opacity="0.3">
+                            <text id="Text" transform="translate(25.000000, 7.500000) rotate(-180.000000) translate(-25.000000, -7.500000) " font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="0.405273437" y="12">Disabled</tspan>
+                            </text>
+                            <g id="ic_fiber_manual_record" transform="translate(48.000000, 8.000000) rotate(180.000000) translate(-48.000000, -8.000000) translate(40.000000, 0.000000)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/White" mask="url(#mask-12)">
+                                    <g transform="translate(-8.666667, -8.666667)">
+                                        <mask id="mask-14" fill="white">
+                                            <use xlink:href="#path-13"></use>
+                                        </mask>
+                                        <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Disabled/Dark/Text">
+                        <g id="Base" fill-rule="evenodd">
+                            <use fill="#1A2632" xlink:href="#path-15"></use>
+                            <rect stroke-opacity="0.05" stroke="#000000" stroke-width="1" stroke-linejoin="square" fill-opacity="0.1" fill="url(#linearGradient-9)" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        </g>
+                        <text id="Text" opacity="0.3" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="25.4052734" y="17">Disabled</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Pressed" transform="translate(50.000000, 138.000000)">
+                    <g id="Buttons/Pressed/Dark/Icon" transform="translate(220.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" stroke-width="1" fill="url(#linearGradient-3)" fill-rule="evenodd" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <g id="ic_fiber_manual_record" transform="translate(4.000000, 4.000000)">
+                            <mask id="mask-17" fill="white">
+                                <use xlink:href="#path-16"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-17)">
+                                <g transform="translate(-8.666667, -8.666667)">
+                                    <mask id="mask-19" fill="white">
+                                        <use xlink:href="#path-18"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Pressed/Dark/Icon-+-Text" transform="translate(110.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" fill="url(#linearGradient-9)" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <g id="Label" transform="translate(55.000000, 12.000000) rotate(-180.000000) translate(-55.000000, -12.000000) translate(28.000000, 4.000000)">
+                            <text id="Text" transform="translate(23.000000, 7.500000) rotate(-180.000000) translate(-23.000000, -7.500000) " font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="0.227539062" y="12">Pressed</tspan>
+                            </text>
+                            <g id="ic_fiber_manual_record" transform="translate(46.000000, 8.000000) rotate(180.000000) translate(-46.000000, -8.000000) translate(38.000000, 0.000000)">
+                                <mask id="mask-21" fill="white">
+                                    <use xlink:href="#path-20"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/White" mask="url(#mask-21)">
+                                    <g transform="translate(-8.666667, -8.666667)">
+                                        <mask id="mask-23" fill="white">
+                                            <use xlink:href="#path-22"></use>
+                                        </mask>
+                                        <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Pressed/Dark/Text">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" stroke-width="1" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <text id="Text" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="27.2275391" y="17">Pressed</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Hover" transform="translate(50.000000, 94.000000)">
+                    <g id="Buttons/Hover/Dark/Icon" transform="translate(220.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" stroke-width="1" fill="url(#linearGradient-24)" fill-rule="evenodd" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <g id="ic_fiber_manual_record" opacity="0.7" transform="translate(4.000000, 4.000000)">
+                            <mask id="mask-26" fill="white">
+                                <use xlink:href="#path-25"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-26)">
+                                <g transform="translate(-8.666667, -8.666667)">
+                                    <mask id="mask-28" fill="white">
+                                        <use xlink:href="#path-27"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Hover/Dark/Icon-+-Text" transform="translate(110.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" fill="url(#linearGradient-29)" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <g id="Label" transform="translate(52.000000, 12.000000) rotate(-180.000000) translate(-52.000000, -12.000000) translate(28.000000, 4.000000)" opacity="0.7">
+                            <text id="Text" transform="translate(17.000000, 7.500000) rotate(-180.000000) translate(-17.000000, -7.500000) " font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="0.271484375" y="12">Hover</tspan>
+                            </text>
+                            <g id="ic_fiber_manual_record" transform="translate(40.000000, 8.000000) rotate(180.000000) translate(-40.000000, -8.000000) translate(32.000000, 0.000000)">
+                                <mask id="mask-31" fill="white">
+                                    <use xlink:href="#path-30"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/White" mask="url(#mask-31)">
+                                    <g transform="translate(-8.666667, -8.666667)">
+                                        <mask id="mask-33" fill="white">
+                                            <use xlink:href="#path-32"></use>
+                                        </mask>
+                                        <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-32"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Hover/Dark/Text">
+                        <rect id="Base" stroke-opacity="0.15" stroke="#000000" stroke-width="1" fill="url(#linearGradient-29)" fill-rule="evenodd" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <text id="Text" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="33.2714844" y="17">Hover</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Default" transform="translate(50.000000, 50.000000)">
+                    <g id="Buttons/Default/Dark/Icon" transform="translate(220.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.05" stroke="#000000" stroke-width="1" fill="url(#linearGradient-3)" fill-rule="evenodd" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+                        <g id="ic_fiber_manual_record" opacity="0.7" transform="translate(4.000000, 4.000000)">
+                            <mask id="mask-35" fill="white">
+                                <use xlink:href="#path-34"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-35)">
+                                <g transform="translate(-8.666667, -8.666667)">
+                                    <mask id="mask-37" fill="white">
+                                        <use xlink:href="#path-36"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-36"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Default/Dark/Icon-+-Text" transform="translate(110.000000, 0.000000)">
+                        <rect id="Base" stroke-opacity="0.05" stroke="#000000" fill="url(#linearGradient-9)" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <g id="Label" transform="translate(54.000000, 12.000000) rotate(-180.000000) translate(-54.000000, -12.000000) translate(28.000000, 4.000000)" opacity="0.7">
+                            <text id="Text" transform="translate(21.000000, 7.500000) rotate(-180.000000) translate(-21.000000, -7.500000) " font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="0.626953125" y="12">Default</tspan>
+                            </text>
+                            <g id="ic_fiber_manual_record" transform="translate(44.000000, 8.000000) rotate(180.000000) translate(-44.000000, -8.000000) translate(36.000000, 0.000000)">
+                                <mask id="mask-39" fill="white">
+                                    <use xlink:href="#path-38"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="Colors/White" mask="url(#mask-39)">
+                                    <g transform="translate(-8.666667, -8.666667)">
+                                        <mask id="mask-41" fill="white">
+                                            <use xlink:href="#path-40"></use>
+                                        </mask>
+                                        <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-40"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Buttons/Default/Dark/Text">
+                        <rect id="Base" stroke-opacity="0.05" stroke="#000000" stroke-width="1" fill="url(#linearGradient-9)" fill-rule="evenodd" x="0.5" y="0.5" width="99" height="23" rx="4"></rect>
+                        <text id="Text" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="29.6269531" y="17">Default</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

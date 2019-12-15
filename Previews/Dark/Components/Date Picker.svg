@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="192px" viewBox="0 0 720 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34,30 L516,30 C518.209139,30 520,31.790861 520,34 L520,158 C520,160.209139 518.209139,162 516,162 L34,162 C31.790861,162 30,160.209139 30,158 L30,34 C30,31.790861 31.790861,30 34,30 Z" id="path-1"></path>
+        <filter x="-0.1%" y="-0.4%" width="100.2%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+        <rect id="path-5" x="0" y="0" width="25" height="25"></rect>
+        <polygon id="path-7" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+        <polygon id="path-9" points="8.295 4.295 6 6.585 3.705 4.295 3 5 6 8 9 5"></polygon>
+        <rect id="path-11" x="0" y="0" width="25" height="25"></rect>
+    </defs>
+    <g id="Style-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-720.000000, -2819.000000)" id="Dark">
+            <g transform="translate(720.000000, 2819.000000)">
+                <polygon id="bg" fill="#1A2632" points="0 0 720 0 720 192 0 192"></polygon>
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.7" fill="#171B24" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Dropdowns/Dark/Active/Icon-+-Text" transform="translate(40.000000, 40.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.7" stroke="#FFFFFF" fill="#17222C"></path>
+                        <text id="Text" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="27" y="17">Focused</tspan>
+                        </text>
+                        <path d="M12.5,12.625 L13.75,12.625 L13.75,11.375 L12.5,11.375 L12.5,12.625 Z M12.5,14.5 L13.75,14.5 L13.75,13.25 L12.5,13.25 L12.5,14.5 Z M14.375,12.625 L15.625,12.625 L15.625,11.375 L14.375,11.375 L14.375,12.625 Z M14.375,14.5 L15.625,14.5 L15.625,13.25 L14.375,13.25 L14.375,14.5 Z M16.25,12.625 L17.5,12.625 L17.5,11.375 L16.25,11.375 L16.25,12.625 Z M16.25,14.5 L17.5,14.5 L17.5,13.25 L16.25,13.25 L16.25,14.5 Z M18.75,10.75 C18.75,10.405 18.47,10.125 18.125,10.125 L11.875,10.125 C11.53,10.125 11.25,10.405 11.25,10.75 L11.25,15.125 C11.25,15.47 11.53,15.75 11.875,15.75 L18.125,15.75 C18.47,15.75 18.75,15.47 18.75,15.125 L18.75,10.75 Z M18.75,17 L11.25,17 C10.56,17 10,16.440625 10,15.75 L10,8.25 C10,7.559375 10.56,7 11.25,7 L12.5,7 L12.5,7.625 C12.5,7.97 12.78,8.25 13.125,8.25 C13.47,8.25 13.75,7.97 13.75,7.625 L13.75,7 L16.25,7 L16.25,7.625 C16.25,7.97 16.53,8.25 16.875,8.25 C17.22,8.25 17.5,7.97 17.5,7.625 L17.5,7 L18.75,7 C19.440625,7 20,7.559375 20,8.25 L20,15.75 C20,16.440625 19.440625,17 18.75,17 L18.75,17 Z" id="Schedule-Icon" fill="#FFFFFF"></path>
+                        <g id="ic_expand_more" transform="translate(183.000000, 6.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-4)">
+                                <g transform="translate(-6.500000, -6.500000)">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dropdowns/Dark/Disabled/Icon-+-Text" transform="translate(40.000000, 128.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke="#3A465D" fill="#17222C"></path>
+                        <text id="Text" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="27" y="17">Disabled</tspan>
+                        </text>
+                        <path d="M12.5,12.625 L13.75,12.625 L13.75,11.375 L12.5,11.375 L12.5,12.625 Z M12.5,14.5 L13.75,14.5 L13.75,13.25 L12.5,13.25 L12.5,14.5 Z M14.375,12.625 L15.625,12.625 L15.625,11.375 L14.375,11.375 L14.375,12.625 Z M14.375,14.5 L15.625,14.5 L15.625,13.25 L14.375,13.25 L14.375,14.5 Z M16.25,12.625 L17.5,12.625 L17.5,11.375 L16.25,11.375 L16.25,12.625 Z M16.25,14.5 L17.5,14.5 L17.5,13.25 L16.25,13.25 L16.25,14.5 Z M18.75,10.75 C18.75,10.405 18.47,10.125 18.125,10.125 L11.875,10.125 C11.53,10.125 11.25,10.405 11.25,10.75 L11.25,15.125 C11.25,15.47 11.53,15.75 11.875,15.75 L18.125,15.75 C18.47,15.75 18.75,15.47 18.75,15.125 L18.75,10.75 Z M18.75,17 L11.25,17 C10.56,17 10,16.440625 10,15.75 L10,8.25 C10,7.559375 10.56,7 11.25,7 L12.5,7 L12.5,7.625 C12.5,7.97 12.78,8.25 13.125,8.25 C13.47,8.25 13.75,7.97 13.75,7.625 L13.75,7 L16.25,7 L16.25,7.625 C16.25,7.97 16.53,8.25 16.875,8.25 C17.22,8.25 17.5,7.97 17.5,7.625 L17.5,7 L18.75,7 C19.440625,7 20,7.559375 20,8.25 L20,15.75 C20,16.440625 19.440625,17 18.75,17 L18.75,17 Z" id="Schedule-Icon" fill="#3A465D"></path>
+                        <g id="ic_expand_more" transform="translate(183.000000, 6.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/#3A465D" mask="url(#mask-8)" fill="#3A465D" fill-rule="evenodd">
+                                <g transform="translate(-6.500000, -6.500000)" id="Colors/Your_color_1">
+                                    <path d="M0,0 L25,0 L25,25 L0,25 L0,0 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dropdowns/Dark/Default/Icon-+-Text" transform="translate(40.000000, 84.000000)">
+                    <g id="group">
+                        <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke="#3A465D" fill="#17222C"></path>
+                        <text id="Text" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="27" y="17">Default</tspan>
+                        </text>
+                        <path d="M12.5,12.625 L13.75,12.625 L13.75,11.375 L12.5,11.375 L12.5,12.625 Z M12.5,14.5 L13.75,14.5 L13.75,13.25 L12.5,13.25 L12.5,14.5 Z M14.375,12.625 L15.625,12.625 L15.625,11.375 L14.375,11.375 L14.375,12.625 Z M14.375,14.5 L15.625,14.5 L15.625,13.25 L14.375,13.25 L14.375,14.5 Z M16.25,12.625 L17.5,12.625 L17.5,11.375 L16.25,11.375 L16.25,12.625 Z M16.25,14.5 L17.5,14.5 L17.5,13.25 L16.25,13.25 L16.25,14.5 Z M18.75,10.75 C18.75,10.405 18.47,10.125 18.125,10.125 L11.875,10.125 C11.53,10.125 11.25,10.405 11.25,10.75 L11.25,15.125 C11.25,15.47 11.53,15.75 11.875,15.75 L18.125,15.75 C18.47,15.75 18.75,15.47 18.75,15.125 L18.75,10.75 Z M18.75,17 L11.25,17 C10.56,17 10,16.440625 10,15.75 L10,8.25 C10,7.559375 10.56,7 11.25,7 L12.5,7 L12.5,7.625 C12.5,7.97 12.78,8.25 13.125,8.25 C13.47,8.25 13.75,7.97 13.75,7.625 L13.75,7 L16.25,7 L16.25,7.625 C16.25,7.97 16.53,8.25 16.875,8.25 C17.22,8.25 17.5,7.97 17.5,7.625 L17.5,7 L18.75,7 C19.440625,7 20,7.559375 20,8.25 L20,15.75 C20,16.440625 19.440625,17 18.75,17 L18.75,17 Z" id="Schedule-Icon" fill="#FFFFFF" opacity="0.7"></path>
+                        <g id="ic_expand_more" opacity="0.7" transform="translate(183.000000, 6.000000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="Colors/White" mask="url(#mask-10)">
+                                <g transform="translate(-6.500000, -6.500000)">
+                                    <mask id="mask-12" fill="white">
+                                        <use xlink:href="#path-11"></use>
+                                    </mask>
+                                    <use id="White" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

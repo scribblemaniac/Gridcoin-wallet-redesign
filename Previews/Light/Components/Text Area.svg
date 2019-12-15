@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="340px" viewBox="0 0 720 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M204,30 L686,30 C688.209139,30 690,31.790861 690,34 L690,306 C690,308.209139 688.209139,310 686,310 L204,310 C201.790861,310 200,308.209139 200,306 L200,34 C200,31.790861 201.790861,30 204,30 Z" id="path-1"></path>
+        <filter x="-0.1%" y="-0.2%" width="100.2%" height="100.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Style-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -3190.000000)" id="Light">
+            <g transform="translate(0.000000, 3190.000000)">
+                <polygon id="bg" fill="#EAEDED" points="0 0 720 0 720 340 0 340"></polygon>
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Textarea/Light/Active" transform="translate(210.000000, 40.000000)">
+                    <g id="group">
+                        <path d="M0.5,4.00218213 L0.5,65.9978179 C0.5,67.9265933 2.06821675,69.5 3.99507582,69.5 L196.004924,69.5 C197.934083,69.5 199.5,67.9316901 199.5,65.9978179 L199.5,4.00218213 C199.5,2.07340668 197.931783,0.5 196.004924,0.5 L3.99507582,0.5 C2.06591678,0.5 0.5,2.06830993 0.5,4.00218213 Z" id="bg" stroke-opacity="0.7" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Line-1-Line-2-Line-3" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">This</tspan>
+                            <tspan x="10" y="32">is</tspan>
+                            <tspan x="10" y="47">focused</tspan>
+                            <tspan x="10" y="62">textarea</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Textarea/Light/Default" transform="translate(210.000000, 130.000000)">
+                    <g id="group">
+                        <path d="M0.5,4.00218213 L0.5,65.9978179 C0.5,67.9265933 2.06821675,69.5 3.99507582,69.5 L196.004924,69.5 C197.934083,69.5 199.5,67.9316901 199.5,65.9978179 L199.5,4.00218213 C199.5,2.07340668 197.931783,0.5 196.004924,0.5 L3.99507582,0.5 C2.06591678,0.5 0.5,2.06830993 0.5,4.00218213 Z" id="bg" stroke-opacity="0.3" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Line-1-Line-2-Line-3" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">This</tspan>
+                            <tspan x="10" y="32">is</tspan>
+                            <tspan x="10" y="47">default</tspan>
+                            <tspan x="10" y="62">textarea</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Textarea/Light/Disabled" transform="translate(210.000000, 220.000000)">
+                    <g id="group">
+                        <path d="M0.5,4.00218213 L0.5,65.9978179 C0.5,67.9265933 2.06821675,69.5 3.99507582,69.5 L196.004924,69.5 C197.934083,69.5 199.5,67.9316901 199.5,65.9978179 L199.5,4.00218213 C199.5,2.07340668 197.931783,0.5 196.004924,0.5 L3.99507582,0.5 C2.06591678,0.5 0.5,2.06830993 0.5,4.00218213 Z" id="bg" stroke-opacity="0.2" stroke="#3A465D" fill="#FFFFFF"></path>
+                        <text id="Line-1-Line-2-Line-3" opacity="0.3" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                            <tspan x="10" y="17">This</tspan>
+                            <tspan x="10" y="32">is</tspan>
+                            <tspan x="10" y="47">disabled</tspan>
+                            <tspan x="10" y="62">textarea</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

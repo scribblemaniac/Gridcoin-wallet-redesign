@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="720px" height="192px" viewBox="0 0 720 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Light</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M204,30 L686,30 C688.209139,30 690,31.790861 690,34 L690,158 C690,160.209139 688.209139,162 686,162 L204,162 C201.790861,162 200,160.209139 200,158 L200,34 C200,31.790861 201.790861,30 204,30 Z" id="path-1"></path>
+        <filter x="-0.1%" y="-0.4%" width="100.2%" height="101.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Style-Guideline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1335.000000)" id="Light">
+            <g transform="translate(0.000000, 1335.000000)">
+                <polygon id="bg" fill="#EAEDED" points="0 0 720 0 720 192 0 192"></polygon>
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Inputs/Light/Active" transform="translate(210.000000, 40.000000)">
+                    <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.7" stroke="#3A465D" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="Text" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                        <tspan x="10" y="17">Focused</tspan>
+                    </text>
+                </g>
+                <g id="Inputs/Light/Disabled" transform="translate(210.000000, 128.000000)">
+                    <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.2" stroke="#3A465D" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="Text" opacity="0.3" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                        <tspan x="10" y="17">Disabled</tspan>
+                    </text>
+                </g>
+                <g id="Inputs/Light/Default" transform="translate(210.000000, 84.000000)">
+                    <path d="M0.5,3.99005301 L0.5,20.009947 C0.5,21.9386522 2.06388571,23.5 3.99507582,23.5 L196.004924,23.5 C197.934423,23.5 199.5,21.9367822 199.5,20.009947 L199.5,3.99005301 C199.5,2.06134782 197.936114,0.5 196.004924,0.5 L3.99507582,0.5 C2.06557705,0.5 0.5,2.06321775 0.5,3.99005301 Z" id="bg" stroke-opacity="0.3" stroke="#3A465D" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    <text id="Text" opacity="0.7" font-family=".AppleSystemUIFont" font-size="12" font-weight="normal" fill="#3A465D">
+                        <tspan x="10" y="17">Default</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
